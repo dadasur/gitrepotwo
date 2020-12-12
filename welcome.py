@@ -4,6 +4,3 @@ printf("hellow indiaccc")
 
 
 printf("hellow indiaccc hellow indiaccc")
-
-printf("hellow brother")
-
